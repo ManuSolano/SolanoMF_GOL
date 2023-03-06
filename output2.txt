@@ -1,23 +1,23 @@
 simulation at 2023-03-06
-Universe size 150 x 100
+Universe size 100 x 70
 
 ......................................
 ..........Iteration ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            5678      50.4
-Beehives          1214      10.8
-Loafs             2909      25.8
-Boats              100       0.9
-Tubs                86       0.8
-Blinkers          1224      10.9
+Blocks            9675      11.8
+Beehives          2368       2.9
+Loafs             4490       5.5
+Boats              182       0.2
+Tubs               577       0.7
+Blinkers         64604      78.9
 Toads                0       0.0
 Beacons              0       0.0
-Gliders             37       0.3
-Spaceships          11       0.1
+Gliders              1       0.0
+Spaceships           0       0.0
 ......................................
-Total        11259
+Total        81897
 ......................................
 
 
