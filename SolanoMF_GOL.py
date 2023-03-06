@@ -14,6 +14,7 @@ ON = 255
 OFF = 0
 vals = [ON, OFF]
 generations=0
+currentGen=0
 num_blocks = 0
 num_boats = 0
 num_blinkers = 0
@@ -78,14 +79,16 @@ def count_toads(grid):
     return count
 
 def count_beacons(grid):
-    pattern = np.array([[ON, ON, OFF, OFF], [ON, ON, OFF, OFF], [OFF, OFF, ON, ON], [OFF, OFF, ON, ON]])
-    return count_pattern(grid, pattern)
+    pattern1 = np.array([[ON, ON, OFF, OFF], [ON, ON, OFF, OFF], [OFF, OFF, ON, ON], [OFF, OFF, ON, ON]])
+    pattern2 = np.array([[ON, ON, OFF, OFF], [ON, OFF, OFF, OFF], [OFF, OFF, OFF, ON], [OFF, OFF, ON, ON]])
+    count = count_pattern(grid, pattern1) + count_pattern(grid, pattern2)
+    return count
 
 def count_gliders(grid):
     pattern1 = np.array([[OFF, ON, OFF], [OFF, OFF, ON], [ON, ON, ON]])
-    pattern2 = np.array([[ON, OFF, OFF], [OFF, OFF, ON], [ON, ON, ON]])
-    pattern3 = np.array([[ON, ON, ON], [OFF, OFF, ON], [OFF, ON, OFF]])
-    pattern4 = np.array([[ON, ON, ON], [ON, OFF, OFF], [OFF, ON, OFF]])
+    pattern2 = np.array([[ON, OFF, ON], [OFF, ON, ON], [OFF, ON, OFF]])
+    pattern3 = np.array([[OFF, OFF, ON], [ON, OFF, ON], [OFF, ON, ON]])
+    pattern4 = np.array([[ON, OFF, OFF], [OFF, ON, ON], [ON, ON, OFF]])
     count = count_pattern(grid, pattern1) + count_pattern(grid, pattern2) + \
             count_pattern(grid, pattern3) + count_pattern(grid, pattern4)
     return count
@@ -143,21 +146,14 @@ def update(frameNum, img, grid, Nx, Ny,choice2):
     num_gliders=num_gliders+count_gliders(grid)
     num_spaceships=num_spaceships+count_spaceships(grid)
     total = num_blocks + num_boats + num_blinkers + num_beehives + num_loafs + num_toads + num_tubs + num_beacons + num_gliders + num_spaceships
-
-    print("\n\n\n")
     # update data
     img.set_data(newGrid)
     grid[:] = newGrid[:]
-    global generations
-    generations=generations-1
-    if (generations==0):
+    global currentGen
+    currentGen=currentGen+1
+    with open(f"output{choice2}.txt", "a") as file:
         
-        file = open(f"output{choice2}.txt", "w", encoding='utf-8')
-        file.write(f"simulation at {datetime.today().strftime('%Y-%m-%d')}\n") 
-        file.write(f"Universe size {Ny} x {Nx}\n")
-        file.write("\n") 
-        file.write(f"......................................\n") 
-        file.write(f"..........Iteration ...........\n") 
+        file.write(f"..........Iteration {currentGen} ...........\n") 
         file.write(f"......................................\n") 
         file.write(f"Structure       Count       Percentage\n") 
         file.write(f"......................................\n") 
@@ -171,12 +167,13 @@ def update(frameNum, img, grid, Nx, Ny,choice2):
         file.write("{:<12}{:>10}{:>10}\n".format("Beacons", num_beacons, "{:.1f}".format((num_beacons*100)/total)))
         file.write("{:<12}{:>10}{:>10}\n".format("Gliders", num_gliders, "{:.1f}".format((num_gliders*100)/total)))
         file.write("{:<12}{:>10}{:>10}\n".format("Spaceships", num_spaceships, "{:.1f}".format((num_spaceships*100)/total)))
-
         file.write(f"......................................\n")
         file.write(f"Total        {total}\n") 
         file.write(f"......................................\n")
-        file.write("\n\n\n")
-        file.close()
+        file.write("\n")
+    file.close()
+    print(currentGen)
+    if (currentGen==generations):
         time.sleep(1)
         sys.exit()
     return img,
@@ -190,38 +187,34 @@ def main():
     parser = argparse.ArgumentParser(description="Runs Conway's Game of Life system.py.")
     # TODO: add arguments
     global generations
-    chose = False
-    choice = input("Do you want to use a config file? (y/n): ")
-    while chose !=True:
+    
+    while True:
+        choice = input("Do you want to use a config file? (y/n): ")
         if choice == "y" or choice == "Y":
-            choice2 = int(input("Choose a number from 1 to 5: "))
-            if choice2==1:
-                with open('config1.csv', 'r') as f:
-                    Ny, Nx = [int(x) for x in f.readline().split()]
-                    generations = int(f.readline())
-            if choice2==2:
-                with open('config2.csv', 'r') as f:
-                    Ny, Nx = [int(x) for x in f.readline().split()]
-                    generations = int(f.readline())
-            if choice2==3:
-                with open('config3.csv', 'r') as f:
-                    Ny, Nx = [int(x) for x in f.readline().split()]
-                    generations = int(f.readline())
-            if choice2==4:
-                with open('config4.csv', 'r') as f:
-                    Ny, Nx = [int(x) for x in f.readline().split()]
-                    generations = int(f.readline())
-            if choice2==5:
-                with open('config5.csv', 'r') as f:
-                    Ny, Nx = [int(x) for x in f.readline().split()]
-                    generations = int(f.readline())
+            while True:
+                try:
+                    choice2 = int(input("Choose a number from 1 to 5: "))
+                    if choice2 < 1 or choice2 > 5:
+                        raise ValueError
+                    break
+                except ValueError:
+                    print("Invalid input. Please enter a number from 1 to 5.")
 
-            chose=True
+            with open(f'config{choice2}.csv', 'r') as f:
+                    Ny, Nx = [int(x) for x in f.readline().split()]
+                    generations = int(f.readline())
+            
+            file = open(f"output{choice2}.txt", "w", encoding='utf-8')
+            file.write(f"simulation at {datetime.today().strftime('%Y-%m-%d')}\n") 
+            file.write(f"Universe size {Ny} x {Nx}\n")
+            file.write("\n") 
+            file.write(f"......................................\n") 
+            break
         elif choice == "n" or choice == "N":
             Nx = int(input("Set the value of the universe width: "))
             Ny = int(input("Set the value of the universe height: "))
             generations = int(input("Set number of generations: "))
-            chose=True
+            break
         else:
             print("Invalid input")
         
