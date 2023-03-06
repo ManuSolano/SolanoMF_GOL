@@ -168,7 +168,7 @@ def update(frameNum, img, grid, Nx, Ny,choice2):
         file.write("{:<12}{:>10}{:>10}\n".format("Gliders", num_gliders, "{:.1f}".format((num_gliders*100)/total)))
         file.write("{:<12}{:>10}{:>10}\n".format("Spaceships", num_spaceships, "{:.1f}".format((num_spaceships*100)/total)))
         file.write(f"......................................\n")
-        file.write(f"Total        {total}\n") 
+        file.write(f"Total              {total}\n") 
         file.write(f"......................................\n")
         file.write("\n")
     file.close()
