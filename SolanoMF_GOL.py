@@ -19,6 +19,102 @@ generations=0
 def randomGrid(Nx, Ny):
     """returns a grid of Nx by Ny random values"""
     return np.random.choice(vals, Nx*Ny, p=[0.2, 0.8]).reshape(Nx, Ny)
+def count_blocks(grid):
+    count = 0
+    for i in range(grid.shape[0] - 1):
+        for j in range(grid.shape[1] - 1):
+            if (grid[i:i+2, j:j+2] == np.array([[ON, ON], [ON, ON]])).all():
+                count += 1
+                grid[i:i+2, j:j+2] = -1
+    return count
+def count_beehives(grid):
+    grid = np.array(grid)
+    count = 0
+    for i in range(grid.shape[0] - 2):
+        for j in range(grid.shape[1] - 3):
+            if (grid[i:i+3, j:j+4] == np.array([[OFF, ON, ON, OFF], [ON, OFF, OFF, ON], [OFF, ON, ON, OFF]])).all() or \
+               (grid[i:i+4, j:j+3] == np.array([[OFF, ON, OFF], [ON, OFF, ON], [ON, OFF, ON], [OFF, ON, OFF]])).all() or \
+               (grid[i:i+3, j:j+4] == np.rot90(np.array([[OFF, ON, ON, OFF], [ON, OFF, OFF, ON], [OFF, ON, ON, OFF]]))).all() or \
+               (grid[i:i+4, j:j+3] == np.rot90(np.array([[OFF, ON, OFF], [ON, OFF, ON], [ON, OFF, ON], [OFF, ON, OFF]]))).all():
+                count += 1
+                grid[i:i+3, j:j+4] = -1
+    return count
+def count_loafs(grid):
+    count = 0
+    for i in range(grid.shape[0] - 2):
+        for j in range(grid.shape[1] - 2):
+            if (grid[i:i+2, j:j+3] == np.array([[OFF, ON, ON], [ON, OFF, ON]])).all() or \
+               (grid[i:i+3, j:j+2] == np.array([[ON, ON], [OFF, ON], [ON, OFF]])).all() or \
+               (grid[i+1:i+3, j:j+2] == np.array([[ON, OFF], [ON, ON]])).all() or \
+               (grid[i:i+2, j+1:j+3] == np.array([[ON, OFF], [ON, ON]])).all():
+                count += 1
+                grid[i:i+3, j:j+3] = -1
+    return count
+def count_boats(grid):
+    count = 0
+    for i in range(grid.shape[0] - 2):
+        for j in range(grid.shape[1] - 2):
+            if (grid[i:i+3, j:j+3] == np.array([[ON, ON, OFF], [ON, OFF, ON], [OFF, ON, OFF]])).all():
+                count += 1
+                grid[i:i+3, j:j+3] = -1
+    return count
+def count_tubs(grid):
+    count = 0
+    for i in range(grid.shape[0] - 2):
+        for j in range(grid.shape[1] - 2):
+            if (grid[i:i+3, j:j+3] == np.array([[OFF, ON, OFF], [ON, OFF, ON], [OFF, ON, OFF]])).all():
+                count += 1
+                grid[i:i+3, j:j+3] = -1
+    return count
+def count_blinkers(grid):
+    count = 0
+    for i in range(grid.shape[0] - 2):
+        for j in range(grid.shape[1] - 2):
+            if (grid[i:i+3, j:j+3] == np.array([[0, ON, 0], [0, ON, 0], [0, ON, 0]])).all() :
+                count += 1
+                grid[i:i+3, j:j+3] = -1
+    return count
+
+def count_toads(grid):
+    count = 0
+    for i in range(grid.shape[0] - 2):
+        for j in range(grid.shape[1] - 2):
+            if (grid[i:i+3, j:j+3] == np.array([[0, 0, 0, 0], [0, ON, ON, ON], [ON, ON, ON, 0], [0, 0, 0, 0]])).all():
+                count += 1
+                grid[i:i+3, j:j+3] = -1
+    return count  
+def count_beacons(grid):
+    count = 0
+    for i in range(grid.shape[0] - 1):
+        for j in range(grid.shape[1] - 1):
+            if (grid[i:i+2, j:j+2] == np.array([[ON, ON], [ON, ON]])).all() or \
+            (grid[i:i+2, j:j+2] == np.array([[OFF, OFF], [OFF, OFF]])).all():
+                count += 1
+                grid[i:i+2, j:j+2] = -1
+    return count
+
+def count_gliders(grid):
+    count = 0
+    for i in range(grid.shape[0] - 2):
+        for j in range(grid.shape[1] - 2):
+            if (grid[i:i+3, j:j+3] == np.array([[OFF, ON, OFF], [OFF, OFF, ON], [ON, ON, ON]])).all():
+                count += 1
+                grid[i:i+3, j:j+3] = -1
+    return count
+
+def count_spaceships(grid):
+    count = 0
+    for i in range(grid.shape[0] - 2):
+        for j in range(grid.shape[1] - 3):
+            if (grid[i:i+3, j:j+4] == np.array([[OFF, ON, OFF, ON], [ON, OFF, OFF, OFF], [ON, OFF, OFF, ON]])).all():
+                count += 1
+                grid[i:i+3, j:j+4] = -1
+    return count
+
+
+
+
+
 
 def update(frameNum, img, grid, Nx, Ny,choice2):
 
@@ -43,7 +139,13 @@ def update(frameNum, img, grid, Nx, Ny,choice2):
             elif grid[i, j] == OFF and neighbors == 3:
                 newGrid[i, j] = ON
 
-
+    print(count_blocks(grid))
+    print(count_beehives(grid))
+    print(count_loafs(grid))
+    print(count_boats(grid))
+    print(count_tubs(grid))
+    print(count_blinkers(grid))
+    print("\n\n\n")
     # update data
     img.set_data(newGrid)
     grid[:] = newGrid[:]

@@ -1,0 +1,24 @@
+simulation at 2023-03-05
+Universe size 50 x 40
+
+......................................
+..........Iteration ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks       
+Beehives     
+Loafs        
+Boats        
+Tubs         
+Blinkers     
+Toads        
+Beacons      
+Gliders      
+Spaceships   
+......................................
+Total        
+......................................
+
+
+
