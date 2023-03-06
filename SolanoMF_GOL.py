@@ -7,6 +7,8 @@ import sys, argparse
 import numpy as np
 import matplotlib.pyplot as plt 
 import matplotlib.animation as animation
+from datetime import datetime
+import time
 
 ON = 255
 OFF = 0
@@ -18,7 +20,7 @@ def randomGrid(Nx, Ny):
     """returns a grid of Nx by Ny random values"""
     return np.random.choice(vals, Nx*Ny, p=[0.2, 0.8]).reshape(Nx, Ny)
 
-def update(frameNum, img, grid, Nx, Ny):
+def update(frameNum, img, grid, Nx, Ny,choice2):
 
     # copy grid since we require 8 neighbors for calculation
     # and we go line by line 
@@ -48,6 +50,32 @@ def update(frameNum, img, grid, Nx, Ny):
     global generations
     generations=generations-1
     if (generations==0):
+        
+        file = open(f"output{choice2}.txt", "w", encoding='utf-8')
+        file.write(f"simulation at {datetime.today().strftime('%Y-%m-%d')}\n") 
+        file.write(f"Universe size {Nx} x {Ny}\n")
+        file.write("\n") 
+        file.write(f"......................................\n") 
+        file.write(f"..........Iteration ...........\n") 
+        file.write(f"......................................\n") 
+        file.write(f"Structure       Count       Percentage\n") 
+        file.write(f"......................................\n") 
+        file.write(f"Blocks       \n") 
+        file.write(f"Beehives     \n") 
+        file.write(f"Loafs        \n") 
+        file.write(f"Boats        \n") 
+        file.write(f"Tubs         \n") 
+        file.write(f"Blinkers     \n") 
+        file.write(f"Toads        \n") 
+        file.write(f"Beacons      \n") 
+        file.write(f"Gliders      \n") 
+        file.write(f"Spaceships   \n") 
+        file.write(f"......................................\n")
+        file.write(f"Total        \n") 
+        file.write(f"......................................\n")
+        file.write("\n\n\n")
+        file.close()
+        time.sleep(3)
         sys.exit()
     return img,
 
@@ -110,7 +138,7 @@ def main():
     # set up animation
     fig, ax = plt.subplots()
     img = ax.imshow(grid, interpolation='nearest')
-    ani = animation.FuncAnimation(fig, update, fargs=(img, grid, Nx, Ny),
+    ani = animation.FuncAnimation(fig, update, fargs=(img, grid, Nx, Ny,choice2),
                               frames=10,
                               interval=updateInterval,
                               save_count=50)
