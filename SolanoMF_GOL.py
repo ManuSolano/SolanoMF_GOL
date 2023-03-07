@@ -30,6 +30,14 @@ def randomGrid(Nx, Ny):
     """returns a grid of Nx by Ny random values"""
     return np.random.choice(vals, Nx*Ny, p=[0.2, 0.8]).reshape(Nx, Ny)
 
+def setGrid(Ny, Nx, LiveCoords):
+    tempGrid = np.random.choice([OFF, OFF], Ny*Nx, p=[0.2, 0.8]).reshape(Ny, Nx)
+    for pair in LiveCoords:
+        i, j = pair
+        if i >= 0 and i < Ny and j >= 0 and j < Nx:
+            tempGrid[i, j] = ON
+    return tempGrid
+
 def count_pattern(grid, pattern):
     count = 0
     for i in range(grid.shape[0] - pattern.shape[0] + 1):
@@ -146,12 +154,19 @@ def update(frameNum, img, grid, Nx, Ny,choice2):
     num_gliders=num_gliders+count_gliders(grid)
     num_spaceships=num_spaceships+count_spaceships(grid)
     total = num_blocks + num_boats + num_blinkers + num_beehives + num_loafs + num_toads + num_tubs + num_beacons + num_gliders + num_spaceships
+    if total==0:
+        total=1
     # update data
     img.set_data(newGrid)
     grid[:] = newGrid[:]
     global currentGen
     currentGen=currentGen+1
-    with open(f"output{choice2}.txt", "a") as file:
+
+    if choice2==0:
+        num="MANUAL"
+    elif choice2>0:
+        num=choice2
+    with open(f"output{num}.txt", "a") as file:
         
         file.write(f"..........Iteration {currentGen} ...........\n") 
         file.write(f"......................................\n") 
@@ -203,7 +218,10 @@ def main():
             with open(f'config{choice2}.csv', 'r') as f:
                     Ny, Nx = [int(x) for x in f.readline().split()]
                     generations = int(f.readline())
-            
+                    lines = f.readlines()[2:]  # slice the list to start from the third line
+                    LiveCoords = [[int(x) for x in line.split()] for line in lines]
+            grid=np.array([])
+            grid=setGrid(Nx,Ny, LiveCoords)
             file = open(f"output{choice2}.txt", "w", encoding='utf-8')
             file.write(f"simulation at {datetime.today().strftime('%Y-%m-%d')}\n") 
             file.write(f"Universe size {Ny} x {Nx}\n")
@@ -214,6 +232,15 @@ def main():
             Nx = int(input("Set the value of the universe width: "))
             Ny = int(input("Set the value of the universe height: "))
             generations = int(input("Set number of generations: "))
+            grid = np.array([])
+            grid = randomGrid(Nx, Ny)
+            choice2=0
+            file = open(f"outputMANUAL.txt", "w", encoding='utf-8')
+            file.write(f"simulation at {datetime.today().strftime('%Y-%m-%d')}\n") 
+            file.write(f"Universe size {Ny} x {Nx}\n")
+            file.write(f"Total Generations: {generations}\n")
+            file.write("\n") 
+            file.write(f"......................................\n") 
             break
         else:
             print("Invalid input")
@@ -223,9 +250,9 @@ def main():
     updateInterval = 5
 
     # declare grid
-    grid = np.array([])
+    
     # populate grid with random on/off - more off than on
-    grid = randomGrid(Nx, Ny)
+    
     # Uncomment lines to see the "glider" demo
     #grid = np.zeros(Nx*Ny).reshape(Nx, Ny)
     #addGlider(1, 1, grid)

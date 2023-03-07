@@ -1,902 +1,3602 @@
 simulation at 2023-03-06
-Universe size 150 x 100
+Universe size 60 x 50
 
 ......................................
-unt       Percentage
+Count       Percentage
 ......................................
-Blocks              19      11.4
-Beehives            20      12.0
-Loafs               69      41.3
-Boats                2       1.2
-Tubs                 5       3.0
-Blinkers            47      28.1
+Blocks               1       4.0
+Beehives             5      20.0
+Loafs                7      28.0
+Boats                0       0.0
+Tubs                 2       8.0
+Blinkers            10      40.0
 Toads                0       0.0
 Beacons              0       0.0
-Gliders              5       3.0
+Gliders              0       0.0
 Spaceships           0       0.0
 ......................................
-Total              167
+Total              25
 ......................................
 
 ..........Iteration 2 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks             220      41.7
-Beehives            51       9.7
-Loafs              150      28.4
-Boats                3       0.6
-Tubs                 6       1.1
-Blinkers            88      16.7
+Blocks              31      35.6
+Beehives            13      14.9
+Loafs               23      26.4
+Boats                0       0.0
+Tubs                 2       2.3
+Blinkers            18      20.7
 Toads                0       0.0
 Beacons              0       0.0
-Gliders             10       1.9
+Gliders              0       0.0
 Spaceships           0       0.0
 ......................................
-Total              528
+Total              87
 ......................................
 
 ..........Iteration 3 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks             325      40.7
-Beehives            80      10.0
-Loafs              235      29.4
-Boats                3       0.4
-Tubs                 8       1.0
-Blinkers           137      17.1
+Blocks              50      39.1
+Beehives            16      12.5
+Loafs               31      24.2
+Boats                1       0.8
+Tubs                 2       1.6
+Blinkers            28      21.9
 Toads                0       0.0
 Beacons              0       0.0
-Gliders             11       1.4
+Gliders              0       0.0
 Spaceships           0       0.0
 ......................................
-Total              799
+Total              128
 ......................................
 
 ..........Iteration 4 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks             476      42.8
-Beehives           115      10.3
-Loafs              313      28.1
-Boats                4       0.4
-Tubs                12       1.1
-Blinkers           180      16.2
+Blocks              72      42.6
+Beehives            17      10.1
+Loafs               42      24.9
+Boats                1       0.6
+Tubs                 3       1.8
+Blinkers            34      20.1
 Toads                0       0.0
 Beacons              0       0.0
-Gliders             13       1.2
+Gliders              0       0.0
 Spaceships           0       0.0
 ......................................
-Total              1113
+Total              169
 ......................................
 
 ..........Iteration 5 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks             612      43.5
-Beehives           147      10.5
-Loafs              386      27.5
-Boats                6       0.4
-Tubs                13       0.9
-Blinkers           226      16.1
+Blocks              92      44.4
+Beehives            20       9.7
+Loafs               52      25.1
+Boats                1       0.5
+Tubs                 4       1.9
+Blinkers            38      18.4
 Toads                0       0.0
 Beacons              0       0.0
-Gliders             16       1.1
+Gliders              0       0.0
 Spaceships           0       0.0
 ......................................
-Total              1406
+Total              207
 ......................................
 
 ..........Iteration 6 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks             741      43.5
-Beehives           181      10.6
-Loafs              464      27.3
-Boats                9       0.5
-Tubs                13       0.8
-Blinkers           275      16.2
+Blocks             109      44.5
+Beehives            26      10.6
+Loafs               59      24.1
+Boats                1       0.4
+Tubs                 4       1.6
+Blinkers            46      18.8
 Toads                0       0.0
 Beacons              0       0.0
-Gliders             19       1.1
+Gliders              0       0.0
 Spaceships           0       0.0
 ......................................
-Total              1702
+Total              245
 ......................................
 
 ..........Iteration 7 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks             884      43.8
-Beehives           217      10.7
-Loafs              545      27.0
-Boats               10       0.5
-Tubs                13       0.6
-Blinkers           324      16.0
+Blocks             129      45.1
+Beehives            30      10.5
+Loafs               69      24.1
+Boats                1       0.3
+Tubs                 5       1.7
+Blinkers            52      18.2
 Toads                0       0.0
 Beacons              0       0.0
-Gliders             27       1.3
+Gliders              0       0.0
 Spaceships           0       0.0
 ......................................
-Total              2020
+Total              286
 ......................................
 
 ..........Iteration 8 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            1014      44.0
-Beehives           253      11.0
-Loafs              615      26.7
-Boats               11       0.5
-Tubs                16       0.7
-Blinkers           370      16.0
+Blocks             146      44.8
+Beehives            34      10.4
+Loafs               79      24.2
+Boats                1       0.3
+Tubs                 5       1.5
+Blinkers            61      18.7
 Toads                0       0.0
 Beacons              0       0.0
-Gliders             28       1.2
+Gliders              0       0.0
 Spaceships           0       0.0
 ......................................
-Total              2307
+Total              326
 ......................................
 
 ..........Iteration 9 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            1160      44.6
-Beehives           289      11.1
-Loafs              675      25.9
-Boats               15       0.6
-Tubs                18       0.7
-Blinkers           413      15.9
-Toads                1       0.0
+Blocks             165      45.0
+Beehives            39      10.6
+Loafs               90      24.5
+Boats                1       0.3
+Tubs                 5       1.4
+Blinkers            67      18.3
+Toads                0       0.0
 Beacons              0       0.0
-Gliders             32       1.2
+Gliders              0       0.0
 Spaceships           0       0.0
 ......................................
-Total              2603
+Total              367
 ......................................
 
 ..........Iteration 10 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            1292      44.5
-Beehives           324      11.2
-Loafs              748      25.7
-Boats               18       0.6
-Tubs                20       0.7
-Blinkers           464      16.0
-Toads                1       0.0
+Blocks             179      44.1
+Beehives            44      10.8
+Loafs               98      24.1
+Boats                1       0.2
+Tubs                 6       1.5
+Blinkers            78      19.2
+Toads                0       0.0
 Beacons              0       0.0
-Gliders             38       1.3
+Gliders              0       0.0
 Spaceships           0       0.0
 ......................................
-Total              2905
+Total              406
 ......................................
 
 ..........Iteration 11 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            1420      44.2
-Beehives           358      11.1
-Loafs              837      26.1
-Boats               19       0.6
-Tubs                22       0.7
-Blinkers           514      16.0
-Toads                1       0.0
+Blocks             191      42.7
+Beehives            47      10.5
+Loafs              103      23.0
+Boats                1       0.2
+Tubs                 7       1.6
+Blinkers            97      21.7
+Toads                0       0.0
 Beacons              0       0.0
-Gliders             42       1.3
+Gliders              1       0.2
 Spaceships           0       0.0
 ......................................
-Total              3213
+Total              447
 ......................................
 
 ..........Iteration 12 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            1550      44.3
-Beehives           384      11.0
-Loafs              913      26.1
-Boats               19       0.5
-Tubs                26       0.7
-Blinkers           565      16.1
-Toads                1       0.0
+Blocks             206      42.6
+Beehives            51      10.5
+Loafs              107      22.1
+Boats                1       0.2
+Tubs                 7       1.4
+Blinkers           110      22.7
+Toads                0       0.0
 Beacons              0       0.0
-Gliders             44       1.3
+Gliders              2       0.4
 Spaceships           0       0.0
 ......................................
-Total              3502
+Total              484
 ......................................
 
 ..........Iteration 13 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            1673      44.3
-Beehives           413      10.9
-Loafs              980      25.9
-Boats               19       0.5
-Tubs                28       0.7
-Blinkers           613      16.2
-Toads                1       0.0
+Blocks             219      41.7
+Beehives            53      10.1
+Loafs              114      21.7
+Boats                1       0.2
+Tubs                 7       1.3
+Blinkers           129      24.6
+Toads                0       0.0
 Beacons              0       0.0
-Gliders             50       1.3
+Gliders              2       0.4
 Spaceships           0       0.0
 ......................................
-Total              3777
+Total              525
 ......................................
 
 ..........Iteration 14 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            1809      44.5
-Beehives           437      10.7
-Loafs             1060      26.1
-Boats               21       0.5
-Tubs                30       0.7
-Blinkers           659      16.2
-Toads                1       0.0
+Blocks             233      40.8
+Beehives            59      10.3
+Loafs              123      21.5
+Boats                1       0.2
+Tubs                 7       1.2
+Blinkers           146      25.6
+Toads                0       0.0
 Beacons              0       0.0
-Gliders             52       1.3
+Gliders              2       0.4
 Spaceships           0       0.0
 ......................................
-Total              4069
+Total              571
 ......................................
 
 ..........Iteration 15 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            1933      44.6
-Beehives           467      10.8
-Loafs             1123      25.9
-Boats               22       0.5
-Tubs                33       0.8
-Blinkers           697      16.1
-Toads                1       0.0
+Blocks             248      40.5
+Beehives            61      10.0
+Loafs              130      21.2
+Boats                1       0.2
+Tubs                 7       1.1
+Blinkers           164      26.8
+Toads                0       0.0
 Beacons              0       0.0
-Gliders             56       1.3
+Gliders              2       0.3
 Spaceships           0       0.0
 ......................................
-Total              4332
+Total              613
 ......................................
 
 ..........Iteration 16 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            2068      44.8
-Beehives           496      10.8
-Loafs             1187      25.7
-Boats               22       0.5
-Tubs                34       0.7
-Blinkers           744      16.1
-Toads                1       0.0
+Blocks             255      39.1
+Beehives            65      10.0
+Loafs              137      21.0
+Boats                1       0.2
+Tubs                 7       1.1
+Blinkers           185      28.4
+Toads                0       0.0
 Beacons              0       0.0
-Gliders             60       1.3
+Gliders              2       0.3
 Spaceships           0       0.0
 ......................................
-Total              4612
+Total              652
 ......................................
 
 ..........Iteration 17 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            2179      44.7
-Beehives           526      10.8
-Loafs             1257      25.8
-Boats               24       0.5
-Tubs                39       0.8
-Blinkers           786      16.1
-Toads                2       0.0
+Blocks             273      39.2
+Beehives            67       9.6
+Loafs              145      20.8
+Boats                1       0.1
+Tubs                 7       1.0
+Blinkers           202      29.0
+Toads                0       0.0
 Beacons              0       0.0
-Gliders             65       1.3
+Gliders              2       0.3
 Spaceships           0       0.0
 ......................................
-Total              4878
+Total              697
 ......................................
 
 ..........Iteration 18 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            2296      44.6
-Beehives           551      10.7
-Loafs             1335      25.9
-Boats               27       0.5
-Tubs                41       0.8
-Blinkers           829      16.1
-Toads                2       0.0
+Blocks             286      38.7
+Beehives            70       9.5
+Loafs              154      20.8
+Boats                1       0.1
+Tubs                 7       0.9
+Blinkers           219      29.6
+Toads                0       0.0
 Beacons              0       0.0
-Gliders             70       1.4
+Gliders              2       0.3
 Spaceships           0       0.0
 ......................................
-Total              5151
+Total              739
 ......................................
 
 ..........Iteration 19 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            2408      44.6
-Beehives           581      10.8
-Loafs             1390      25.7
-Boats               30       0.6
-Tubs                43       0.8
-Blinkers           871      16.1
-Toads                3       0.1
+Blocks             303      38.8
+Beehives            71       9.1
+Loafs              161      20.6
+Boats                1       0.1
+Tubs                 8       1.0
+Blinkers           235      30.1
+Toads                0       0.0
 Beacons              0       0.0
-Gliders             74       1.4
+Gliders              2       0.3
 Spaceships           0       0.0
 ......................................
-Total              5400
+Total              781
 ......................................
 
 ..........Iteration 20 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            2518      44.5
-Beehives           603      10.6
-Loafs             1463      25.8
-Boats               33       0.6
-Tubs                45       0.8
-Blinkers           919      16.2
-Toads                3       0.1
+Blocks             318      38.8
+Beehives            75       9.1
+Loafs              165      20.1
+Boats                1       0.1
+Tubs                 8       1.0
+Blinkers           251      30.6
+Toads                0       0.0
 Beacons              0       0.0
-Gliders             78       1.4
+Gliders              2       0.2
 Spaceships           0       0.0
 ......................................
-Total              5662
+Total              820
 ......................................
 
 ..........Iteration 21 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            2646      44.7
-Beehives           629      10.6
-Loafs             1520      25.6
-Boats               36       0.6
-Tubs                47       0.8
-Blinkers           964      16.3
-Toads                4       0.1
+Blocks             336      39.1
+Beehives            76       8.8
+Loafs              171      19.9
+Boats                1       0.1
+Tubs                 8       0.9
+Blinkers           265      30.8
+Toads                0       0.0
 Beacons              0       0.0
-Gliders             80       1.3
+Gliders              3       0.3
 Spaceships           0       0.0
 ......................................
-Total              5926
+Total              860
 ......................................
 
 ..........Iteration 22 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            2755      44.6
-Beehives           649      10.5
-Loafs             1585      25.7
-Boats               37       0.6
-Tubs                52       0.8
-Blinkers          1011      16.4
-Toads                4       0.1
+Blocks             342      38.1
+Beehives            82       9.1
+Loafs              177      19.7
+Boats                1       0.1
+Tubs                 8       0.9
+Blinkers           283      31.5
+Toads                0       0.0
 Beacons              0       0.0
-Gliders             81       1.3
+Gliders              4       0.4
 Spaceships           0       0.0
 ......................................
-Total              6174
+Total              897
 ......................................
 
 ..........Iteration 23 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            2857      44.6
-Beehives           682      10.7
-Loafs             1629      25.5
-Boats               37       0.6
-Tubs                54       0.8
-Blinkers          1054      16.5
-Toads                4       0.1
+Blocks             358      38.1
+Beehives            85       9.1
+Loafs              183      19.5
+Boats                1       0.1
+Tubs                 8       0.9
+Blinkers           300      31.9
+Toads                0       0.0
 Beacons              0       0.0
-Gliders             83       1.3
+Gliders              4       0.4
 Spaceships           0       0.0
 ......................................
-Total              6400
+Total              939
 ......................................
 
 ..........Iteration 24 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            2970      44.8
-Beehives           702      10.6
-Loafs             1688      25.4
-Boats               37       0.6
-Tubs                56       0.8
-Blinkers          1092      16.5
-Toads                4       0.1
+Blocks             367      37.6
+Beehives            89       9.1
+Loafs              188      19.3
+Boats                1       0.1
+Tubs                 8       0.8
+Blinkers           318      32.6
+Toads                0       0.0
 Beacons              0       0.0
-Gliders             85       1.3
+Gliders              4       0.4
 Spaceships           0       0.0
 ......................................
-Total              6634
+Total              975
 ......................................
 
 ..........Iteration 25 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            3090      44.9
-Beehives           737      10.7
-Loafs             1741      25.3
-Boats               38       0.6
-Tubs                58       0.8
-Blinkers          1126      16.4
-Toads                5       0.1
+Blocks             382      37.4
+Beehives            92       9.0
+Loafs              197      19.3
+Boats                1       0.1
+Tubs                 9       0.9
+Blinkers           336      32.9
+Toads                0       0.0
 Beacons              0       0.0
-Gliders             86       1.2
+Gliders              4       0.4
 Spaceships           0       0.0
 ......................................
-Total              6881
+Total              1021
 ......................................
 
 ..........Iteration 26 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            3192      44.9
-Beehives           758      10.7
-Loafs             1800      25.3
-Boats               39       0.5
-Tubs                60       0.8
-Blinkers          1167      16.4
-Toads                5       0.1
+Blocks             390      36.8
+Beehives            95       9.0
+Loafs              205      19.3
+Boats                1       0.1
+Tubs                 9       0.8
+Blinkers           357      33.6
+Toads                0       0.0
 Beacons              0       0.0
-Gliders             90       1.3
+Gliders              4       0.4
 Spaceships           0       0.0
 ......................................
-Total              7111
+Total              1061
 ......................................
 
 ..........Iteration 27 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            3307      45.0
-Beehives           786      10.7
-Loafs             1857      25.3
-Boats               39       0.5
-Tubs                64       0.9
-Blinkers          1201      16.3
-Toads                5       0.1
-Beacons              1       0.0
-Gliders             94       1.3
+Blocks             403      36.4
+Beehives           100       9.0
+Loafs              216      19.5
+Boats                1       0.1
+Tubs                 9       0.8
+Blinkers           375      33.8
+Toads                0       0.0
+Beacons              0       0.0
+Gliders              4       0.4
 Spaceships           0       0.0
 ......................................
-Total              7354
+Total              1108
 ......................................
 
 ..........Iteration 28 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            3427      45.1
-Beehives           814      10.7
-Loafs             1904      25.1
-Boats               40       0.5
-Tubs                66       0.9
-Blinkers          1242      16.4
-Toads                5       0.1
-Beacons              1       0.0
-Gliders             97       1.3
+Blocks             422      36.6
+Beehives           101       8.8
+Loafs              222      19.3
+Boats                1       0.1
+Tubs                 9       0.8
+Blinkers           394      34.2
+Toads                0       0.0
+Beacons              0       0.0
+Gliders              4       0.3
 Spaceships           0       0.0
 ......................................
-Total              7596
+Total              1153
 ......................................
 
 ..........Iteration 29 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            3529      45.2
-Beehives           838      10.7
-Loafs             1948      24.9
-Boats               41       0.5
-Tubs                69       0.9
-Blinkers          1284      16.4
-Toads                5       0.1
-Beacons              2       0.0
-Gliders            100       1.3
+Blocks             438      36.6
+Beehives           103       8.6
+Loafs              227      19.0
+Boats                1       0.1
+Tubs                 9       0.8
+Blinkers           415      34.7
+Toads                0       0.0
+Beacons              0       0.0
+Gliders              4       0.3
 Spaceships           0       0.0
 ......................................
-Total              7816
+Total              1197
 ......................................
 
 ..........Iteration 30 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            3644      45.2
-Beehives           862      10.7
-Loafs             2004      24.9
-Boats               41       0.5
-Tubs                72       0.9
-Blinkers          1322      16.4
-Toads                5       0.1
-Beacons              2       0.0
-Gliders            103       1.3
+Blocks             453      36.5
+Beehives           108       8.7
+Loafs              235      18.9
+Boats                1       0.1
+Tubs                 9       0.7
+Blinkers           432      34.8
+Toads                0       0.0
+Beacons              0       0.0
+Gliders              4       0.3
 Spaceships           0       0.0
 ......................................
-Total              8055
+Total              1242
 ......................................
 
 ..........Iteration 31 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            3749      45.3
-Beehives           882      10.7
-Loafs             2050      24.8
-Boats               41       0.5
-Tubs                77       0.9
-Blinkers          1368      16.5
-Toads                5       0.1
-Beacons              2       0.0
-Gliders            104       1.3
+Blocks             469      36.4
+Beehives           114       8.8
+Loafs              241      18.7
+Boats                1       0.1
+Tubs                 9       0.7
+Blinkers           452      35.0
+Toads                0       0.0
+Beacons              0       0.0
+Gliders              4       0.3
 Spaceships           0       0.0
 ......................................
-Total              8278
+Total              1290
 ......................................
 
 ..........Iteration 32 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            3857      45.3
-Beehives           904      10.6
-Loafs             2110      24.8
-Boats               41       0.5
-Tubs                80       0.9
-Blinkers          1400      16.5
-Toads                5       0.1
-Beacons              3       0.0
-Gliders            106       1.2
+Blocks             483      36.0
+Beehives           118       8.8
+Loafs              252      18.8
+Boats                1       0.1
+Tubs                 9       0.7
+Blinkers           472      35.2
+Toads                0       0.0
+Beacons              0       0.0
+Gliders              5       0.4
 Spaceships           0       0.0
 ......................................
-Total              8506
+Total              1340
 ......................................
 
 ..........Iteration 33 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            3974      45.5
-Beehives           925      10.6
-Loafs             2163      24.7
-Boats               41       0.5
-Tubs                85       1.0
-Blinkers          1434      16.4
-Toads                5       0.1
-Beacons              3       0.0
-Gliders            110       1.3
+Blocks             503      36.1
+Beehives           123       8.8
+Loafs              261      18.7
+Boats                1       0.1
+Tubs                 9       0.6
+Blinkers           492      35.3
+Toads                0       0.0
+Beacons              0       0.0
+Gliders              6       0.4
 Spaceships           0       0.0
 ......................................
-Total              8740
+Total              1395
 ......................................
 
 ..........Iteration 34 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            4076      45.4
-Beehives           950      10.6
-Loafs             2230      24.9
-Boats               41       0.5
-Tubs                90       1.0
-Blinkers          1466      16.3
-Toads                5       0.1
-Beacons              3       0.0
-Gliders            112       1.2
+Blocks             521      36.2
+Beehives           126       8.7
+Loafs              268      18.6
+Boats                1       0.1
+Tubs                 9       0.6
+Blinkers           509      35.3
+Toads                0       0.0
+Beacons              0       0.0
+Gliders              7       0.5
 Spaceships           0       0.0
 ......................................
-Total              8973
+Total              1441
 ......................................
 
 ..........Iteration 35 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            4182      45.5
-Beehives           978      10.6
-Loafs             2285      24.8
-Boats               41       0.4
-Tubs                94       1.0
-Blinkers          1493      16.2
-Toads                5       0.1
-Beacons              3       0.0
-Gliders            117       1.3
+Blocks             537      36.0
+Beehives           130       8.7
+Loafs              280      18.8
+Boats                1       0.1
+Tubs                 9       0.6
+Blinkers           528      35.4
+Toads                0       0.0
+Beacons              0       0.0
+Gliders              8       0.5
 Spaceships           0       0.0
 ......................................
-Total              9198
+Total              1493
 ......................................
 
 ..........Iteration 36 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            4271      45.4
-Beehives          1002      10.7
-Loafs             2340      24.9
-Boats               41       0.4
-Tubs                98       1.0
-Blinkers          1523      16.2
-Toads                5       0.1
-Beacons              3       0.0
-Gliders            121       1.3
+Blocks             554      36.1
+Beehives           130       8.5
+Loafs              284      18.5
+Boats                1       0.1
+Tubs                11       0.7
+Blinkers           546      35.6
+Toads                0       0.0
+Beacons              0       0.0
+Gliders              8       0.5
 Spaceships           0       0.0
 ......................................
-Total              9404
+Total              1534
 ......................................
 
 ..........Iteration 37 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            4376      45.4
-Beehives          1035      10.7
-Loafs             2395      24.9
-Boats               43       0.4
-Tubs               101       1.0
-Blinkers          1552      16.1
-Toads                5       0.1
-Beacons              3       0.0
-Gliders            122       1.3
+Blocks             570      36.1
+Beehives           132       8.4
+Loafs              293      18.5
+Boats                1       0.1
+Tubs                12       0.8
+Blinkers           564      35.7
+Toads                0       0.0
+Beacons              0       0.0
+Gliders              8       0.5
 Spaceships           0       0.0
 ......................................
-Total              9632
+Total              1580
 ......................................
 
 ..........Iteration 38 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            4460      45.4
-Beehives          1058      10.8
-Loafs             2442      24.9
-Boats               43       0.4
-Tubs               104       1.1
-Blinkers          1583      16.1
-Toads                5       0.1
-Beacons              3       0.0
-Gliders            123       1.3
+Blocks             583      35.9
+Beehives           134       8.2
+Loafs              309      19.0
+Boats                2       0.1
+Tubs                12       0.7
+Blinkers           578      35.5
+Toads                0       0.0
+Beacons              0       0.0
+Gliders              8       0.5
 Spaceships           0       0.0
 ......................................
-Total              9821
+Total              1626
 ......................................
 
 ..........Iteration 39 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            4570      45.5
-Beehives          1087      10.8
-Loafs             2482      24.7
-Boats               43       0.4
-Tubs               108       1.1
-Blinkers          1622      16.1
-Toads                5       0.0
-Beacons              3       0.0
-Gliders            128       1.3
+Blocks             593      35.6
+Beehives           136       8.2
+Loafs              319      19.1
+Boats                2       0.1
+Tubs                12       0.7
+Blinkers           596      35.8
+Toads                0       0.0
+Beacons              0       0.0
+Gliders              8       0.5
 Spaceships           0       0.0
 ......................................
-Total              10048
+Total              1666
 ......................................
 
 ..........Iteration 40 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            4662      45.5
-Beehives          1111      10.8
-Loafs             2520      24.6
-Boats               44       0.4
-Tubs               111       1.1
-Blinkers          1655      16.2
-Toads                5       0.0
-Beacons              3       0.0
-Gliders            130       1.3
+Blocks             604      35.4
+Beehives           138       8.1
+Loafs              329      19.3
+Boats                2       0.1
+Tubs                14       0.8
+Blinkers           611      35.8
+Toads                0       0.0
+Beacons              0       0.0
+Gliders              8       0.5
 Spaceships           0       0.0
 ......................................
-Total              10241
+Total              1706
 ......................................
 
 ..........Iteration 41 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            4776      45.6
-Beehives          1132      10.8
-Loafs             2567      24.5
-Boats               46       0.4
-Tubs               115       1.1
-Blinkers          1691      16.2
-Toads                5       0.0
-Beacons              3       0.0
-Gliders            132       1.3
+Blocks             625      35.7
+Beehives           141       8.1
+Loafs              336      19.2
+Boats                2       0.1
+Tubs                14       0.8
+Blinkers           625      35.7
+Toads                0       0.0
+Beacons              0       0.0
+Gliders              8       0.5
 Spaceships           0       0.0
 ......................................
-Total              10467
+Total              1751
 ......................................
 
 ..........Iteration 42 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            4859      45.5
-Beehives          1147      10.7
-Loafs             2627      24.6
-Boats               48       0.4
-Tubs               119       1.1
-Blinkers          1730      16.2
-Toads                5       0.0
-Beacons              3       0.0
-Gliders            134       1.3
+Blocks             641      35.7
+Beehives           144       8.0
+Loafs              344      19.2
+Boats                2       0.1
+Tubs                14       0.8
+Blinkers           642      35.8
+Toads                0       0.0
+Beacons              0       0.0
+Gliders              8       0.4
 Spaceships           0       0.0
 ......................................
-Total              10672
+Total              1795
 ......................................
 
 ..........Iteration 43 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            4947      45.5
-Beehives          1175      10.8
-Loafs             2672      24.6
-Boats               49       0.5
-Tubs               122       1.1
-Blinkers          1756      16.2
-Toads                6       0.1
-Beacons              3       0.0
-Gliders            136       1.3
+Blocks             657      35.8
+Beehives           147       8.0
+Loafs              349      19.0
+Boats                2       0.1
+Tubs                15       0.8
+Blinkers           657      35.8
+Toads                0       0.0
+Beacons              0       0.0
+Gliders              8       0.4
 Spaceships           0       0.0
 ......................................
-Total              10866
+Total              1835
 ......................................
 
 ..........Iteration 44 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            5034      45.5
-Beehives          1199      10.8
-Loafs             2716      24.6
-Boats               50       0.5
-Tubs               125       1.1
-Blinkers          1792      16.2
-Toads                6       0.1
-Beacons              3       0.0
-Gliders            138       1.2
+Blocks             669      35.7
+Beehives           149       7.9
+Loafs              358      19.1
+Boats                2       0.1
+Tubs                15       0.8
+Blinkers           674      35.9
+Toads                0       0.0
+Beacons              0       0.0
+Gliders              8       0.4
 Spaceships           0       0.0
 ......................................
-Total              11063
+Total              1875
 ......................................
 
 ..........Iteration 45 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            5119      45.4
-Beehives          1224      10.9
-Loafs             2769      24.6
-Boats               52       0.5
-Tubs               128       1.1
-Blinkers          1828      16.2
-Toads                6       0.1
-Beacons              3       0.0
-Gliders            138       1.2
+Blocks             686      35.8
+Beehives           152       7.9
+Loafs              365      19.1
+Boats                2       0.1
+Tubs                15       0.8
+Blinkers           687      35.9
+Toads                0       0.0
+Beacons              0       0.0
+Gliders              8       0.4
 Spaceships           0       0.0
 ......................................
-Total              11267
+Total              1915
 ......................................
 
 ..........Iteration 46 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            5209      45.4
-Beehives          1245      10.9
-Loafs             2812      24.5
-Boats               54       0.5
-Tubs               133       1.2
-Blinkers          1865      16.3
-Toads                6       0.1
-Beacons              3       0.0
-Gliders            138       1.2
+Blocks             705      36.0
+Beehives           155       7.9
+Loafs              374      19.1
+Boats                2       0.1
+Tubs                16       0.8
+Blinkers           698      35.6
+Toads                0       0.0
+Beacons              0       0.0
+Gliders              8       0.4
 Spaceships           0       0.0
 ......................................
-Total              11465
+Total              1958
 ......................................
 
 ..........Iteration 47 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            5285      45.3
-Beehives          1255      10.8
-Loafs             2873      24.6
-Boats               55       0.5
-Tubs               138       1.2
-Blinkers          1905      16.3
-Toads                6       0.1
-Beacons              3       0.0
-Gliders            138       1.2
+Blocks             717      35.9
+Beehives           162       8.1
+Loafs              380      19.0
+Boats                2       0.1
+Tubs                16       0.8
+Blinkers           711      35.6
+Toads                0       0.0
+Beacons              0       0.0
+Gliders              8       0.4
 Spaceships           0       0.0
 ......................................
-Total              11658
+Total              1996
 ......................................
 
 ..........Iteration 48 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            5389      45.5
-Beehives          1283      10.8
-Loafs             2897      24.5
-Boats               55       0.5
-Tubs               143       1.2
-Blinkers          1927      16.3
-Toads                6       0.1
-Beacons              3       0.0
-Gliders            141       1.2
+Blocks             740      36.2
+Beehives           170       8.3
+Loafs              386      18.9
+Boats                2       0.1
+Tubs                16       0.8
+Blinkers           722      35.3
+Toads                0       0.0
+Beacons              0       0.0
+Gliders              8       0.4
 Spaceships           0       0.0
 ......................................
-Total              11844
+Total              2044
 ......................................
 
 ..........Iteration 49 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            5466      45.4
-Beehives          1305      10.8
-Loafs             2933      24.4
-Boats               55       0.5
-Tubs               147       1.2
-Blinkers          1975      16.4
-Toads                6       0.0
-Beacons              3       0.0
-Gliders            141       1.2
+Blocks             759      36.2
+Beehives           175       8.3
+Loafs              394      18.8
+Boats                2       0.1
+Tubs                16       0.8
+Blinkers           743      35.4
+Toads                0       0.0
+Beacons              0       0.0
+Gliders              8       0.4
 Spaceships           0       0.0
 ......................................
-Total              12031
+Total              2097
 ......................................
 
 ..........Iteration 50 ...........
 ......................................
 Structure       Count       Percentage
 ......................................
-Blocks            5555      45.5
-Beehives          1322      10.8
-Loafs             2975      24.3
-Boats               57       0.5
-Tubs               153       1.3
-Blinkers          2008      16.4
-Toads                6       0.0
-Beacons              3       0.0
-Gliders            141       1.2
+Blocks             780      36.4
+Beehives           178       8.3
+Loafs              399      18.6
+Boats                2       0.1
+Tubs                16       0.7
+Blinkers           758      35.4
+Toads                0       0.0
+Beacons              0       0.0
+Gliders              8       0.4
 Spaceships           0       0.0
 ......................................
-Total              12220
+Total              2141
+......................................
+
+..........Iteration 51 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks             799      36.4
+Beehives           184       8.4
+Loafs              414      18.9
+Boats                2       0.1
+Tubs                16       0.7
+Blinkers           771      35.1
+Toads                0       0.0
+Beacons              0       0.0
+Gliders              8       0.4
+Spaceships           0       0.0
+......................................
+Total              2194
+......................................
+
+..........Iteration 52 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks             815      36.4
+Beehives           188       8.4
+Loafs              421      18.8
+Boats                2       0.1
+Tubs                16       0.7
+Blinkers           791      35.3
+Toads                0       0.0
+Beacons              0       0.0
+Gliders              9       0.4
+Spaceships           0       0.0
+......................................
+Total              2242
+......................................
+
+..........Iteration 53 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks             838      36.5
+Beehives           193       8.4
+Loafs              429      18.7
+Boats                3       0.1
+Tubs                16       0.7
+Blinkers           809      35.2
+Toads                0       0.0
+Beacons              0       0.0
+Gliders              9       0.4
+Spaceships           0       0.0
+......................................
+Total              2297
+......................................
+
+..........Iteration 54 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks             854      36.5
+Beehives           194       8.3
+Loafs              440      18.8
+Boats                3       0.1
+Tubs                17       0.7
+Blinkers           823      35.1
+Toads                0       0.0
+Beacons              0       0.0
+Gliders             11       0.5
+Spaceships           0       0.0
+......................................
+Total              2342
+......................................
+
+..........Iteration 55 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks             869      36.5
+Beehives           196       8.2
+Loafs              449      18.9
+Boats                3       0.1
+Tubs                17       0.7
+Blinkers           834      35.1
+Toads                0       0.0
+Beacons              0       0.0
+Gliders             11       0.5
+Spaceships           0       0.0
+......................................
+Total              2379
+......................................
+
+..........Iteration 56 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks             896      36.9
+Beehives           200       8.2
+Loafs              456      18.8
+Boats                3       0.1
+Tubs                17       0.7
+Blinkers           843      34.7
+Toads                0       0.0
+Beacons              0       0.0
+Gliders             11       0.5
+Spaceships           0       0.0
+......................................
+Total              2426
+......................................
+
+..........Iteration 57 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks             904      36.7
+Beehives           206       8.4
+Loafs              467      19.0
+Boats                3       0.1
+Tubs                17       0.7
+Blinkers           854      34.7
+Toads                0       0.0
+Beacons              0       0.0
+Gliders             13       0.5
+Spaceships           0       0.0
+......................................
+Total              2464
+......................................
+
+..........Iteration 58 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks             919      36.7
+Beehives           211       8.4
+Loafs              480      19.2
+Boats                3       0.1
+Tubs                17       0.7
+Blinkers           862      34.4
+Toads                0       0.0
+Beacons              0       0.0
+Gliders             13       0.5
+Spaceships           0       0.0
+......................................
+Total              2505
+......................................
+
+..........Iteration 59 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks             938      36.8
+Beehives           216       8.5
+Loafs              492      19.3
+Boats                3       0.1
+Tubs                17       0.7
+Blinkers           870      34.1
+Toads                0       0.0
+Beacons              0       0.0
+Gliders             13       0.5
+Spaceships           0       0.0
+......................................
+Total              2549
+......................................
+
+..........Iteration 60 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks             952      36.7
+Beehives           219       8.4
+Loafs              501      19.3
+Boats                4       0.2
+Tubs                19       0.7
+Blinkers           883      34.1
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             13       0.5
+Spaceships           0       0.0
+......................................
+Total              2592
+......................................
+
+..........Iteration 61 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks             973      36.8
+Beehives           223       8.4
+Loafs              517      19.6
+Boats                4       0.2
+Tubs                21       0.8
+Blinkers           891      33.7
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             13       0.5
+Spaceships           0       0.0
+......................................
+Total              2643
+......................................
+
+..........Iteration 62 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks             985      36.6
+Beehives           231       8.6
+Loafs              531      19.7
+Boats                4       0.1
+Tubs                22       0.8
+Blinkers           902      33.5
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             13       0.5
+Spaceships           0       0.0
+......................................
+Total              2689
+......................................
+
+..........Iteration 63 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1003      36.7
+Beehives           237       8.7
+Loafs              540      19.8
+Boats                4       0.1
+Tubs                22       0.8
+Blinkers           911      33.4
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             13       0.5
+Spaceships           0       0.0
+......................................
+Total              2731
+......................................
+
+..........Iteration 64 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1020      36.8
+Beehives           242       8.7
+Loafs              549      19.8
+Boats                4       0.1
+Tubs                22       0.8
+Blinkers           921      33.2
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             13       0.5
+Spaceships           0       0.0
+......................................
+Total              2772
+......................................
+
+..........Iteration 65 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1042      37.0
+Beehives           249       8.8
+Loafs              559      19.8
+Boats                4       0.1
+Tubs                22       0.8
+Blinkers           930      33.0
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             13       0.5
+Spaceships           0       0.0
+......................................
+Total              2820
+......................................
+
+..........Iteration 66 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1072      37.4
+Beehives           251       8.8
+Loafs              563      19.7
+Boats                4       0.1
+Tubs                23       0.8
+Blinkers           937      32.7
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             13       0.5
+Spaceships           0       0.0
+......................................
+Total              2864
+......................................
+
+..........Iteration 67 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1088      37.5
+Beehives           255       8.8
+Loafs              570      19.7
+Boats                4       0.1
+Tubs                23       0.8
+Blinkers           944      32.6
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             14       0.5
+Spaceships           0       0.0
+......................................
+Total              2899
+......................................
+
+..........Iteration 68 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1113      37.8
+Beehives           260       8.8
+Loafs              578      19.7
+Boats                4       0.1
+Tubs                23       0.8
+Blinkers           948      32.2
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             14       0.5
+Spaceships           0       0.0
+......................................
+Total              2941
+......................................
+
+..........Iteration 69 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1122      37.7
+Beehives           263       8.8
+Loafs              590      19.8
+Boats                4       0.1
+Tubs                23       0.8
+Blinkers           957      32.2
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             14       0.5
+Spaceships           0       0.0
+......................................
+Total              2974
+......................................
+
+..........Iteration 70 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1141      37.9
+Beehives           268       8.9
+Loafs              599      19.9
+Boats                4       0.1
+Tubs                23       0.8
+Blinkers           963      32.0
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             14       0.5
+Spaceships           0       0.0
+......................................
+Total              3013
+......................................
+
+..........Iteration 71 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1155      37.9
+Beehives           272       8.9
+Loafs              607      19.9
+Boats                4       0.1
+Tubs                23       0.8
+Blinkers           972      31.9
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             14       0.5
+Spaceships           0       0.0
+......................................
+Total              3048
+......................................
+
+..........Iteration 72 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1168      37.9
+Beehives           275       8.9
+Loafs              618      20.1
+Boats                4       0.1
+Tubs                23       0.7
+Blinkers           977      31.7
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             14       0.5
+Spaceships           0       0.0
+......................................
+Total              3080
+......................................
+
+..........Iteration 73 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1184      38.0
+Beehives           280       9.0
+Loafs              625      20.1
+Boats                4       0.1
+Tubs                23       0.7
+Blinkers           985      31.6
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             15       0.5
+Spaceships           0       0.0
+......................................
+Total              3117
+......................................
+
+..........Iteration 74 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1203      38.1
+Beehives           282       8.9
+Loafs              634      20.1
+Boats                4       0.1
+Tubs                23       0.7
+Blinkers           993      31.5
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             15       0.5
+Spaceships           0       0.0
+......................................
+Total              3155
+......................................
+
+..........Iteration 75 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1218      38.2
+Beehives           289       9.1
+Loafs              644      20.2
+Boats                4       0.1
+Tubs                23       0.7
+Blinkers           998      31.3
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             15       0.5
+Spaceships           0       0.0
+......................................
+Total              3192
+......................................
+
+..........Iteration 76 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1235      38.3
+Beehives           292       9.1
+Loafs              648      20.1
+Boats                4       0.1
+Tubs                23       0.7
+Blinkers          1006      31.2
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             15       0.5
+Spaceships           0       0.0
+......................................
+Total              3224
+......................................
+
+..........Iteration 77 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1248      38.3
+Beehives           297       9.1
+Loafs              656      20.1
+Boats                4       0.1
+Tubs                23       0.7
+Blinkers          1014      31.1
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             16       0.5
+Spaceships           0       0.0
+......................................
+Total              3259
+......................................
+
+..........Iteration 78 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1267      38.5
+Beehives           297       9.0
+Loafs              660      20.1
+Boats                4       0.1
+Tubs                23       0.7
+Blinkers          1020      31.0
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             18       0.5
+Spaceships           0       0.0
+......................................
+Total              3290
+......................................
+
+..........Iteration 79 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1280      38.6
+Beehives           299       9.0
+Loafs              666      20.1
+Boats                4       0.1
+Tubs                23       0.7
+Blinkers          1029      31.0
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             18       0.5
+Spaceships           0       0.0
+......................................
+Total              3320
+......................................
+
+..........Iteration 80 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1296      38.7
+Beehives           301       9.0
+Loafs              674      20.1
+Boats                4       0.1
+Tubs                23       0.7
+Blinkers          1034      30.9
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             18       0.5
+Spaceships           0       0.0
+......................................
+Total              3351
+......................................
+
+..........Iteration 81 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1313      38.8
+Beehives           304       9.0
+Loafs              680      20.1
+Boats                4       0.1
+Tubs                23       0.7
+Blinkers          1039      30.7
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             18       0.5
+Spaceships           0       0.0
+......................................
+Total              3382
+......................................
+
+..........Iteration 82 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1328      38.9
+Beehives           307       9.0
+Loafs              686      20.1
+Boats                4       0.1
+Tubs                23       0.7
+Blinkers          1046      30.6
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             18       0.5
+Spaceships           0       0.0
+......................................
+Total              3413
+......................................
+
+..........Iteration 83 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1342      39.0
+Beehives           311       9.0
+Loafs              691      20.1
+Boats                4       0.1
+Tubs                23       0.7
+Blinkers          1052      30.6
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             18       0.5
+Spaceships           0       0.0
+......................................
+Total              3442
+......................................
+
+..........Iteration 84 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1358      39.1
+Beehives           314       9.0
+Loafs              697      20.1
+Boats                4       0.1
+Tubs                23       0.7
+Blinkers          1057      30.4
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             19       0.5
+Spaceships           0       0.0
+......................................
+Total              3473
+......................................
+
+..........Iteration 85 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1378      39.3
+Beehives           317       9.0
+Loafs              703      20.0
+Boats                4       0.1
+Tubs                23       0.7
+Blinkers          1064      30.3
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             19       0.5
+Spaceships           0       0.0
+......................................
+Total              3509
+......................................
+
+..........Iteration 86 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1397      39.4
+Beehives           319       9.0
+Loafs              711      20.0
+Boats                4       0.1
+Tubs                23       0.6
+Blinkers          1072      30.2
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             20       0.6
+Spaceships           0       0.0
+......................................
+Total              3547
+......................................
+
+..........Iteration 87 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1417      39.6
+Beehives           319       8.9
+Loafs              715      20.0
+Boats                4       0.1
+Tubs                23       0.6
+Blinkers          1078      30.1
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             20       0.6
+Spaceships           0       0.0
+......................................
+Total              3577
+......................................
+
+..........Iteration 88 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1441      39.9
+Beehives           321       8.9
+Loafs              719      19.9
+Boats                4       0.1
+Tubs                23       0.6
+Blinkers          1083      30.0
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             20       0.6
+Spaceships           0       0.0
+......................................
+Total              3612
+......................................
+
+..........Iteration 89 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1458      40.1
+Beehives           323       8.9
+Loafs              721      19.8
+Boats                4       0.1
+Tubs                23       0.6
+Blinkers          1090      29.9
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             20       0.5
+Spaceships           0       0.0
+......................................
+Total              3640
+......................................
+
+..........Iteration 90 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1479      40.3
+Beehives           325       8.9
+Loafs              724      19.7
+Boats                5       0.1
+Tubs                23       0.6
+Blinkers          1095      29.8
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             20       0.5
+Spaceships           0       0.0
+......................................
+Total              3672
+......................................
+
+..........Iteration 91 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1495      40.4
+Beehives           328       8.9
+Loafs              729      19.7
+Boats                6       0.2
+Tubs                23       0.6
+Blinkers          1099      29.7
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             21       0.6
+Spaceships           0       0.0
+......................................
+Total              3702
+......................................
+
+..........Iteration 92 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1517      40.5
+Beehives           332       8.9
+Loafs              738      19.7
+Boats                7       0.2
+Tubs                23       0.6
+Blinkers          1105      29.5
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             21       0.6
+Spaceships           0       0.0
+......................................
+Total              3744
+......................................
+
+..........Iteration 93 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1528      40.5
+Beehives           335       8.9
+Loafs              751      19.9
+Boats                8       0.2
+Tubs                23       0.6
+Blinkers          1107      29.3
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             22       0.6
+Spaceships           0       0.0
+......................................
+Total              3775
+......................................
+
+..........Iteration 94 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1549      40.6
+Beehives           339       8.9
+Loafs              763      20.0
+Boats                9       0.2
+Tubs                23       0.6
+Blinkers          1110      29.1
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             22       0.6
+Spaceships           0       0.0
+......................................
+Total              3816
+......................................
+
+..........Iteration 95 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1568      40.7
+Beehives           342       8.9
+Loafs              771      20.0
+Boats               10       0.3
+Tubs                23       0.6
+Blinkers          1114      28.9
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             22       0.6
+Spaceships           0       0.0
+......................................
+Total              3851
+......................................
+
+..........Iteration 96 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1585      40.8
+Beehives           347       8.9
+Loafs              777      20.0
+Boats               11       0.3
+Tubs                23       0.6
+Blinkers          1119      28.8
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             22       0.6
+Spaceships           0       0.0
+......................................
+Total              3885
+......................................
+
+..........Iteration 97 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1604      41.0
+Beehives           349       8.9
+Loafs              780      19.9
+Boats               12       0.3
+Tubs                23       0.6
+Blinkers          1122      28.7
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             22       0.6
+Spaceships           0       0.0
+......................................
+Total              3913
+......................................
+
+..........Iteration 98 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1626      41.1
+Beehives           357       9.0
+Loafs              783      19.8
+Boats               13       0.3
+Tubs                23       0.6
+Blinkers          1127      28.5
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             22       0.6
+Spaceships           0       0.0
+......................................
+Total              3952
+......................................
+
+..........Iteration 99 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1641      41.2
+Beehives           363       9.1
+Loafs              787      19.8
+Boats               14       0.4
+Tubs                23       0.6
+Blinkers          1130      28.4
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             22       0.6
+Spaceships           0       0.0
+......................................
+Total              3981
+......................................
+
+..........Iteration 100 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1656      41.3
+Beehives           366       9.1
+Loafs              792      19.7
+Boats               15       0.4
+Tubs                23       0.6
+Blinkers          1136      28.3
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             22       0.5
+Spaceships           0       0.0
+......................................
+Total              4011
+......................................
+
+..........Iteration 101 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1670      41.3
+Beehives           368       9.1
+Loafs              801      19.8
+Boats               16       0.4
+Tubs                23       0.6
+Blinkers          1143      28.3
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             22       0.5
+Spaceships           0       0.0
+......................................
+Total              4044
+......................................
+
+..........Iteration 102 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1683      41.4
+Beehives           369       9.1
+Loafs              807      19.8
+Boats               17       0.4
+Tubs                23       0.6
+Blinkers          1146      28.2
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             24       0.6
+Spaceships           0       0.0
+......................................
+Total              4070
+......................................
+
+..........Iteration 103 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1706      41.5
+Beehives           374       9.1
+Loafs              817      19.9
+Boats               18       0.4
+Tubs                23       0.6
+Blinkers          1150      28.0
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             24       0.6
+Spaceships           0       0.0
+......................................
+Total              4113
+......................................
+
+..........Iteration 104 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1714      41.4
+Beehives           378       9.1
+Loafs              828      20.0
+Boats               19       0.5
+Tubs                23       0.6
+Blinkers          1157      27.9
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             24       0.6
+Spaceships           0       0.0
+......................................
+Total              4144
+......................................
+
+..........Iteration 105 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1733      41.4
+Beehives           382       9.1
+Loafs              841      20.1
+Boats               20       0.5
+Tubs                23       0.5
+Blinkers          1160      27.7
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             24       0.6
+Spaceships           0       0.0
+......................................
+Total              4184
+......................................
+
+..........Iteration 106 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1748      41.5
+Beehives           384       9.1
+Loafs              849      20.1
+Boats               21       0.5
+Tubs                23       0.5
+Blinkers          1166      27.7
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             24       0.6
+Spaceships           0       0.0
+......................................
+Total              4216
+......................................
+
+..........Iteration 107 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1757      41.4
+Beehives           391       9.2
+Loafs              857      20.2
+Boats               21       0.5
+Tubs                23       0.5
+Blinkers          1170      27.6
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             24       0.6
+Spaceships           0       0.0
+......................................
+Total              4244
+......................................
+
+..........Iteration 108 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1773      41.4
+Beehives           395       9.2
+Loafs              867      20.3
+Boats               22       0.5
+Tubs                23       0.5
+Blinkers          1175      27.4
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             25       0.6
+Spaceships           0       0.0
+......................................
+Total              4281
+......................................
+
+..........Iteration 109 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1787      41.5
+Beehives           398       9.2
+Loafs              870      20.2
+Boats               23       0.5
+Tubs                24       0.6
+Blinkers          1182      27.4
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             25       0.6
+Spaceships           0       0.0
+......................................
+Total              4310
+......................................
+
+..........Iteration 110 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1801      41.5
+Beehives           401       9.2
+Loafs              877      20.2
+Boats               24       0.6
+Tubs                24       0.6
+Blinkers          1185      27.3
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             27       0.6
+Spaceships           0       0.0
+......................................
+Total              4340
+......................................
+
+..........Iteration 111 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1811      41.5
+Beehives           403       9.2
+Loafs              886      20.3
+Boats               25       0.6
+Tubs                24       0.5
+Blinkers          1189      27.2
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             27       0.6
+Spaceships           0       0.0
+......................................
+Total              4366
+......................................
+
+..........Iteration 112 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1825      41.5
+Beehives           408       9.3
+Loafs              896      20.4
+Boats               25       0.6
+Tubs                24       0.5
+Blinkers          1192      27.1
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             27       0.6
+Spaceships           0       0.0
+......................................
+Total              4398
+......................................
+
+..........Iteration 113 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1836      41.5
+Beehives           414       9.4
+Loafs              904      20.4
+Boats               25       0.6
+Tubs                24       0.5
+Blinkers          1195      27.0
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             28       0.6
+Spaceships           0       0.0
+......................................
+Total              4427
+......................................
+
+..........Iteration 114 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1848      41.5
+Beehives           415       9.3
+Loafs              910      20.4
+Boats               25       0.6
+Tubs                24       0.5
+Blinkers          1200      27.0
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             29       0.7
+Spaceships           0       0.0
+......................................
+Total              4452
+......................................
+
+..........Iteration 115 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1863      41.6
+Beehives           417       9.3
+Loafs              917      20.5
+Boats               25       0.6
+Tubs                24       0.5
+Blinkers          1204      26.9
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             29       0.6
+Spaceships           0       0.0
+......................................
+Total              4480
+......................................
+
+..........Iteration 116 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1870      41.5
+Beehives           419       9.3
+Loafs              930      20.6
+Boats               25       0.6
+Tubs                24       0.5
+Blinkers          1208      26.8
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             29       0.6
+Spaceships           0       0.0
+......................................
+Total              4506
+......................................
+
+..........Iteration 117 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1880      41.5
+Beehives           426       9.4
+Loafs              940      20.7
+Boats               25       0.6
+Tubs                24       0.5
+Blinkers          1210      26.7
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             29       0.6
+Spaceships           0       0.0
+......................................
+Total              4535
+......................................
+
+..........Iteration 118 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1889      41.4
+Beehives           428       9.4
+Loafs              946      20.7
+Boats               25       0.5
+Tubs                24       0.5
+Blinkers          1217      26.7
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             30       0.7
+Spaceships           0       0.0
+......................................
+Total              4560
+......................................
+
+..........Iteration 119 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1900      41.4
+Beehives           434       9.5
+Loafs              952      20.7
+Boats               25       0.5
+Tubs                24       0.5
+Blinkers          1220      26.6
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             32       0.7
+Spaceships           0       0.0
+......................................
+Total              4588
+......................................
+
+..........Iteration 120 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1910      41.4
+Beehives           435       9.4
+Loafs              957      20.8
+Boats               25       0.5
+Tubs                24       0.5
+Blinkers          1225      26.6
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             33       0.7
+Spaceships           0       0.0
+......................................
+Total              4610
+......................................
+
+..........Iteration 121 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1928      41.5
+Beehives           436       9.4
+Loafs              969      20.9
+Boats               25       0.5
+Tubs                24       0.5
+Blinkers          1230      26.5
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             34       0.7
+Spaceships           0       0.0
+......................................
+Total              4647
+......................................
+
+..........Iteration 122 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1942      41.5
+Beehives           440       9.4
+Loafs              978      20.9
+Boats               25       0.5
+Tubs                24       0.5
+Blinkers          1235      26.4
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             35       0.7
+Spaceships           0       0.0
+......................................
+Total              4680
+......................................
+
+..........Iteration 123 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1955      41.5
+Beehives           443       9.4
+Loafs              987      20.9
+Boats               25       0.5
+Tubs                24       0.5
+Blinkers          1241      26.3
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             36       0.8
+Spaceships           0       0.0
+......................................
+Total              4712
+......................................
+
+..........Iteration 124 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1969      41.5
+Beehives           448       9.4
+Loafs              994      21.0
+Boats               25       0.5
+Tubs                24       0.5
+Blinkers          1244      26.2
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             37       0.8
+Spaceships           0       0.0
+......................................
+Total              4742
+......................................
+
+..........Iteration 125 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            1985      41.6
+Beehives           454       9.5
+Loafs              998      20.9
+Boats               25       0.5
+Tubs                24       0.5
+Blinkers          1250      26.2
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             38       0.8
+Spaceships           0       0.0
+......................................
+Total              4775
+......................................
+
+..........Iteration 126 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2003      41.6
+Beehives           462       9.6
+Loafs             1007      20.9
+Boats               25       0.5
+Tubs                24       0.5
+Blinkers          1252      26.0
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             38       0.8
+Spaceships           0       0.0
+......................................
+Total              4812
+......................................
+
+..........Iteration 127 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2018      41.7
+Beehives           464       9.6
+Loafs             1015      21.0
+Boats               25       0.5
+Tubs                24       0.5
+Blinkers          1257      26.0
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             38       0.8
+Spaceships           0       0.0
+......................................
+Total              4842
+......................................
+
+..........Iteration 128 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2031      41.7
+Beehives           469       9.6
+Loafs             1019      20.9
+Boats               25       0.5
+Tubs                24       0.5
+Blinkers          1263      25.9
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             38       0.8
+Spaceships           0       0.0
+......................................
+Total              4870
+......................................
+
+..........Iteration 129 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2042      41.7
+Beehives           472       9.6
+Loafs             1024      20.9
+Boats               25       0.5
+Tubs                24       0.5
+Blinkers          1267      25.9
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             38       0.8
+Spaceships           0       0.0
+......................................
+Total              4893
+......................................
+
+..........Iteration 130 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2061      41.8
+Beehives           476       9.7
+Loafs             1032      20.9
+Boats               25       0.5
+Tubs                24       0.5
+Blinkers          1272      25.8
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             38       0.8
+Spaceships           0       0.0
+......................................
+Total              4929
+......................................
+
+..........Iteration 131 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2074      41.8
+Beehives           479       9.7
+Loafs             1042      21.0
+Boats               25       0.5
+Tubs                24       0.5
+Blinkers          1274      25.7
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             38       0.8
+Spaceships           0       0.0
+......................................
+Total              4957
+......................................
+
+..........Iteration 132 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2087      41.9
+Beehives           485       9.7
+Loafs             1047      21.0
+Boats               25       0.5
+Tubs                24       0.5
+Blinkers          1277      25.6
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             38       0.8
+Spaceships           0       0.0
+......................................
+Total              4984
+......................................
+
+..........Iteration 133 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2099      41.9
+Beehives           491       9.8
+Loafs             1052      21.0
+Boats               25       0.5
+Tubs                24       0.5
+Blinkers          1284      25.6
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             38       0.8
+Spaceships           0       0.0
+......................................
+Total              5014
+......................................
+
+..........Iteration 134 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2113      41.9
+Beehives           496       9.8
+Loafs             1060      21.0
+Boats               25       0.5
+Tubs                25       0.5
+Blinkers          1286      25.5
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             39       0.8
+Spaceships           0       0.0
+......................................
+Total              5045
+......................................
+
+..........Iteration 135 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2124      41.9
+Beehives           498       9.8
+Loafs             1070      21.1
+Boats               25       0.5
+Tubs                26       0.5
+Blinkers          1291      25.4
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             39       0.8
+Spaceships           0       0.0
+......................................
+Total              5074
+......................................
+
+..........Iteration 136 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2143      41.9
+Beehives           502       9.8
+Loafs             1078      21.1
+Boats               25       0.5
+Tubs                27       0.5
+Blinkers          1294      25.3
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             39       0.8
+Spaceships           0       0.0
+......................................
+Total              5109
+......................................
+
+..........Iteration 137 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2155      41.9
+Beehives           508       9.9
+Loafs             1085      21.1
+Boats               25       0.5
+Tubs                27       0.5
+Blinkers          1298      25.3
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             40       0.8
+Spaceships           0       0.0
+......................................
+Total              5139
+......................................
+
+..........Iteration 138 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2166      41.9
+Beehives           512       9.9
+Loafs             1093      21.1
+Boats               25       0.5
+Tubs                27       0.5
+Blinkers          1308      25.3
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             41       0.8
+Spaceships           0       0.0
+......................................
+Total              5173
+......................................
+
+..........Iteration 139 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2184      41.9
+Beehives           517       9.9
+Loafs             1101      21.1
+Boats               25       0.5
+Tubs                27       0.5
+Blinkers          1311      25.2
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             42       0.8
+Spaceships           0       0.0
+......................................
+Total              5208
+......................................
+
+..........Iteration 140 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2194      41.9
+Beehives           522      10.0
+Loafs             1112      21.2
+Boats               25       0.5
+Tubs                27       0.5
+Blinkers          1317      25.1
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             43       0.8
+Spaceships           0       0.0
+......................................
+Total              5241
+......................................
+
+..........Iteration 141 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2216      42.0
+Beehives           527      10.0
+Loafs             1118      21.2
+Boats               25       0.5
+Tubs                27       0.5
+Blinkers          1318      25.0
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             44       0.8
+Spaceships           0       0.0
+......................................
+Total              5276
+......................................
+
+..........Iteration 142 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2224      41.9
+Beehives           532      10.0
+Loafs             1126      21.2
+Boats               25       0.5
+Tubs                27       0.5
+Blinkers          1324      25.0
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             45       0.8
+Spaceships           0       0.0
+......................................
+Total              5304
+......................................
+
+..........Iteration 143 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2239      42.0
+Beehives           534      10.0
+Loafs             1135      21.3
+Boats               25       0.5
+Tubs                27       0.5
+Blinkers          1328      24.9
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             48       0.9
+Spaceships           0       0.0
+......................................
+Total              5337
+......................................
+
+..........Iteration 144 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2250      41.9
+Beehives           538      10.0
+Loafs             1141      21.3
+Boats               25       0.5
+Tubs                27       0.5
+Blinkers          1333      24.9
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             49       0.9
+Spaceships           0       0.0
+......................................
+Total              5364
+......................................
+
+..........Iteration 145 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2267      42.0
+Beehives           542      10.0
+Loafs             1145      21.2
+Boats               25       0.5
+Tubs                27       0.5
+Blinkers          1338      24.8
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             50       0.9
+Spaceships           0       0.0
+......................................
+Total              5395
+......................................
+
+..........Iteration 146 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2282      42.1
+Beehives           546      10.1
+Loafs             1149      21.2
+Boats               25       0.5
+Tubs                27       0.5
+Blinkers          1344      24.8
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             50       0.9
+Spaceships           0       0.0
+......................................
+Total              5424
+......................................
+
+..........Iteration 147 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2301      42.2
+Beehives           549      10.1
+Loafs             1157      21.2
+Boats               25       0.5
+Tubs                27       0.5
+Blinkers          1348      24.7
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             50       0.9
+Spaceships           0       0.0
+......................................
+Total              5458
+......................................
+
+..........Iteration 148 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2312      42.1
+Beehives           553      10.1
+Loafs             1166      21.2
+Boats               25       0.5
+Tubs                27       0.5
+Blinkers          1354      24.7
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             51       0.9
+Spaceships           0       0.0
+......................................
+Total              5489
+......................................
+
+..........Iteration 149 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2322      42.1
+Beehives           559      10.1
+Loafs             1177      21.3
+Boats               25       0.5
+Tubs                27       0.5
+Blinkers          1356      24.6
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             52       0.9
+Spaceships           0       0.0
+......................................
+Total              5519
+......................................
+
+..........Iteration 150 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2337      42.1
+Beehives           561      10.1
+Loafs             1186      21.4
+Boats               25       0.5
+Tubs                27       0.5
+Blinkers          1358      24.5
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             52       0.9
+Spaceships           0       0.0
+......................................
+Total              5547
+......................................
+
+..........Iteration 151 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2353      42.2
+Beehives           562      10.1
+Loafs             1194      21.4
+Boats               26       0.5
+Tubs                27       0.5
+Blinkers          1361      24.4
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             52       0.9
+Spaceships           0       0.0
+......................................
+Total              5576
+......................................
+
+..........Iteration 152 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2366      42.2
+Beehives           564      10.1
+Loafs             1202      21.5
+Boats               26       0.5
+Tubs                27       0.5
+Blinkers          1365      24.4
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             52       0.9
+Spaceships           0       0.0
+......................................
+Total              5603
+......................................
+
+..........Iteration 153 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2379      42.2
+Beehives           568      10.1
+Loafs             1211      21.5
+Boats               26       0.5
+Tubs                27       0.5
+Blinkers          1367      24.3
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             53       0.9
+Spaceships           0       0.0
+......................................
+Total              5632
+......................................
+
+..........Iteration 154 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2393      42.2
+Beehives           572      10.1
+Loafs             1221      21.6
+Boats               26       0.5
+Tubs                27       0.5
+Blinkers          1371      24.2
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             53       0.9
+Spaceships           0       0.0
+......................................
+Total              5664
+......................................
+
+..........Iteration 155 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2406      42.2
+Beehives           578      10.1
+Loafs             1234      21.7
+Boats               27       0.5
+Tubs                27       0.5
+Blinkers          1372      24.1
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             53       0.9
+Spaceships           0       0.0
+......................................
+Total              5698
+......................................
+
+..........Iteration 156 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2420      42.3
+Beehives           580      10.1
+Loafs             1245      21.7
+Boats               27       0.5
+Tubs                27       0.5
+Blinkers          1374      24.0
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             53       0.9
+Spaceships           0       0.0
+......................................
+Total              5727
+......................................
+
+..........Iteration 157 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2437      42.3
+Beehives           584      10.1
+Loafs             1252      21.7
+Boats               27       0.5
+Tubs                27       0.5
+Blinkers          1378      23.9
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             53       0.9
+Spaceships           0       0.0
+......................................
+Total              5759
+......................................
+
+..........Iteration 158 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2447      42.3
+Beehives           588      10.2
+Loafs             1259      21.8
+Boats               27       0.5
+Tubs                27       0.5
+Blinkers          1381      23.9
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             54       0.9
+Spaceships           0       0.0
+......................................
+Total              5784
+......................................
+
+..........Iteration 159 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2464      42.4
+Beehives           590      10.1
+Loafs             1266      21.8
+Boats               27       0.5
+Tubs                28       0.5
+Blinkers          1384      23.8
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             54       0.9
+Spaceships           0       0.0
+......................................
+Total              5814
+......................................
+
+..........Iteration 160 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2479      42.4
+Beehives           592      10.1
+Loafs             1274      21.8
+Boats               27       0.5
+Tubs                28       0.5
+Blinkers          1388      23.8
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             54       0.9
+Spaceships           0       0.0
+......................................
+Total              5843
+......................................
+
+..........Iteration 161 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2495      42.5
+Beehives           595      10.1
+Loafs             1282      21.8
+Boats               27       0.5
+Tubs                28       0.5
+Blinkers          1393      23.7
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             55       0.9
+Spaceships           0       0.0
+......................................
+Total              5876
+......................................
+
+..........Iteration 162 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2512      42.5
+Beehives           596      10.1
+Loafs             1292      21.9
+Boats               27       0.5
+Tubs                28       0.5
+Blinkers          1399      23.7
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             55       0.9
+Spaceships           0       0.0
+......................................
+Total              5910
+......................................
+
+..........Iteration 163 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2528      42.5
+Beehives           602      10.1
+Loafs             1298      21.8
+Boats               27       0.5
+Tubs                28       0.5
+Blinkers          1403      23.6
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             55       0.9
+Spaceships           0       0.0
+......................................
+Total              5942
+......................................
+
+..........Iteration 164 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2541      42.5
+Beehives           605      10.1
+Loafs             1305      21.8
+Boats               27       0.5
+Tubs                28       0.5
+Blinkers          1410      23.6
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             56       0.9
+Spaceships           0       0.0
+......................................
+Total              5973
+......................................
+
+..........Iteration 165 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2556      42.6
+Beehives           611      10.2
+Loafs             1312      21.8
+Boats               27       0.4
+Tubs                28       0.5
+Blinkers          1415      23.6
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             56       0.9
+Spaceships           0       0.0
+......................................
+Total              6006
+......................................
+
+..........Iteration 166 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2572      42.6
+Beehives           615      10.2
+Loafs             1319      21.8
+Boats               27       0.4
+Tubs                28       0.5
+Blinkers          1419      23.5
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             56       0.9
+Spaceships           0       0.0
+......................................
+Total              6037
+......................................
+
+..........Iteration 167 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2588      42.6
+Beehives           617      10.2
+Loafs             1327      21.9
+Boats               28       0.5
+Tubs                28       0.5
+Blinkers          1423      23.4
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             57       0.9
+Spaceships           0       0.0
+......................................
+Total              6069
+......................................
+
+..........Iteration 168 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2601      42.7
+Beehives           620      10.2
+Loafs             1333      21.9
+Boats               28       0.5
+Tubs                28       0.5
+Blinkers          1425      23.4
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             57       0.9
+Spaceships           0       0.0
+......................................
+Total              6093
+......................................
+
+..........Iteration 169 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2614      42.7
+Beehives           622      10.2
+Loafs             1339      21.9
+Boats               28       0.5
+Tubs                28       0.5
+Blinkers          1432      23.4
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             57       0.9
+Spaceships           0       0.0
+......................................
+Total              6121
+......................................
+
+..........Iteration 170 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2630      42.8
+Beehives           624      10.2
+Loafs             1346      21.9
+Boats               28       0.5
+Tubs                28       0.5
+Blinkers          1433      23.3
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             57       0.9
+Spaceships           0       0.0
+......................................
+Total              6147
+......................................
+
+..........Iteration 171 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2642      42.8
+Beehives           629      10.2
+Loafs             1353      21.9
+Boats               29       0.5
+Tubs                28       0.5
+Blinkers          1438      23.3
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             57       0.9
+Spaceships           0       0.0
+......................................
+Total              6177
+......................................
+
+..........Iteration 172 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2656      42.8
+Beehives           632      10.2
+Loafs             1358      21.9
+Boats               29       0.5
+Tubs                28       0.5
+Blinkers          1443      23.3
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             57       0.9
+Spaceships           0       0.0
+......................................
+Total              6204
+......................................
+
+..........Iteration 173 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2667      42.8
+Beehives           636      10.2
+Loafs             1365      21.9
+Boats               29       0.5
+Tubs                28       0.4
+Blinkers          1451      23.3
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             57       0.9
+Spaceships           0       0.0
+......................................
+Total              6234
+......................................
+
+..........Iteration 174 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2684      42.8
+Beehives           639      10.2
+Loafs             1378      22.0
+Boats               29       0.5
+Tubs                28       0.4
+Blinkers          1454      23.2
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             58       0.9
+Spaceships           0       0.0
+......................................
+Total              6271
+......................................
+
+..........Iteration 175 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2692      42.8
+Beehives           643      10.2
+Loafs             1386      22.0
+Boats               29       0.5
+Tubs                28       0.4
+Blinkers          1460      23.2
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             58       0.9
+Spaceships           0       0.0
+......................................
+Total              6297
+......................................
+
+..........Iteration 176 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2709      42.8
+Beehives           651      10.3
+Loafs             1395      22.0
+Boats               29       0.5
+Tubs                28       0.4
+Blinkers          1462      23.1
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             58       0.9
+Spaceships           0       0.0
+......................................
+Total              6333
+......................................
+
+..........Iteration 177 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2720      42.8
+Beehives           654      10.3
+Loafs             1399      22.0
+Boats               29       0.5
+Tubs                28       0.4
+Blinkers          1468      23.1
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             58       0.9
+Spaceships           0       0.0
+......................................
+Total              6357
+......................................
+
+..........Iteration 178 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2732      42.8
+Beehives           657      10.3
+Loafs             1402      22.0
+Boats               29       0.5
+Tubs                28       0.4
+Blinkers          1475      23.1
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             60       0.9
+Spaceships           0       0.0
+......................................
+Total              6384
+......................................
+
+..........Iteration 179 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2746      42.8
+Beehives           659      10.3
+Loafs             1407      21.9
+Boats               29       0.5
+Tubs                29       0.5
+Blinkers          1482      23.1
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             60       0.9
+Spaceships           0       0.0
+......................................
+Total              6413
+......................................
+
+..........Iteration 180 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2760      42.8
+Beehives           664      10.3
+Loafs             1416      22.0
+Boats               29       0.4
+Tubs                29       0.4
+Blinkers          1488      23.1
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             60       0.9
+Spaceships           0       0.0
+......................................
+Total              6447
+......................................
+
+..........Iteration 181 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2777      42.8
+Beehives           670      10.3
+Loafs             1423      21.9
+Boats               29       0.4
+Tubs                29       0.4
+Blinkers          1495      23.1
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             60       0.9
+Spaceships           0       0.0
+......................................
+Total              6484
+......................................
+
+..........Iteration 182 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2796      42.9
+Beehives           674      10.3
+Loafs             1432      22.0
+Boats               29       0.4
+Tubs                29       0.4
+Blinkers          1499      23.0
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             60       0.9
+Spaceships           0       0.0
+......................................
+Total              6520
+......................................
+
+..........Iteration 183 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2814      42.9
+Beehives           677      10.3
+Loafs             1439      22.0
+Boats               29       0.4
+Tubs                29       0.4
+Blinkers          1504      23.0
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             60       0.9
+Spaceships           0       0.0
+......................................
+Total              6553
+......................................
+
+..........Iteration 184 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2826      43.0
+Beehives           678      10.3
+Loafs             1448      22.0
+Boats               29       0.4
+Tubs                29       0.4
+Blinkers          1507      22.9
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             60       0.9
+Spaceships           0       0.0
+......................................
+Total              6578
+......................................
+
+..........Iteration 185 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2837      42.9
+Beehives           685      10.4
+Loafs             1457      22.0
+Boats               29       0.4
+Tubs                30       0.5
+Blinkers          1509      22.8
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             60       0.9
+Spaceships           0       0.0
+......................................
+Total              6608
+......................................
+
+..........Iteration 186 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2848      42.9
+Beehives           689      10.4
+Loafs             1467      22.1
+Boats               29       0.4
+Tubs                30       0.5
+Blinkers          1514      22.8
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             60       0.9
+Spaceships           0       0.0
+......................................
+Total              6638
+......................................
+
+..........Iteration 187 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2862      42.9
+Beehives           694      10.4
+Loafs             1480      22.2
+Boats               29       0.4
+Tubs                30       0.4
+Blinkers          1520      22.8
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             60       0.9
+Spaceships           0       0.0
+......................................
+Total              6676
+......................................
+
+..........Iteration 188 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2872      42.8
+Beehives           701      10.5
+Loafs             1489      22.2
+Boats               29       0.4
+Tubs                30       0.4
+Blinkers          1525      22.7
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             61       0.9
+Spaceships           0       0.0
+......................................
+Total              6708
+......................................
+
+..........Iteration 189 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2887      42.8
+Beehives           708      10.5
+Loafs             1497      22.2
+Boats               29       0.4
+Tubs                30       0.4
+Blinkers          1534      22.7
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             61       0.9
+Spaceships           0       0.0
+......................................
+Total              6747
+......................................
+
+..........Iteration 190 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2900      42.8
+Beehives           716      10.6
+Loafs             1503      22.2
+Boats               29       0.4
+Tubs                30       0.4
+Blinkers          1540      22.7
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             62       0.9
+Spaceships           0       0.0
+......................................
+Total              6781
+......................................
+
+..........Iteration 191 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2920      42.8
+Beehives           720      10.5
+Loafs             1511      22.1
+Boats               29       0.4
+Tubs                30       0.4
+Blinkers          1552      22.7
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             63       0.9
+Spaceships           0       0.0
+......................................
+Total              6826
+......................................
+
+..........Iteration 192 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2931      42.7
+Beehives           725      10.6
+Loafs             1520      22.1
+Boats               29       0.4
+Tubs                30       0.4
+Blinkers          1564      22.8
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             64       0.9
+Spaceships           0       0.0
+......................................
+Total              6864
+......................................
+
+..........Iteration 193 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2945      42.7
+Beehives           728      10.6
+Loafs             1526      22.1
+Boats               29       0.4
+Tubs                30       0.4
+Blinkers          1571      22.8
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             64       0.9
+Spaceships           0       0.0
+......................................
+Total              6894
+......................................
+
+..........Iteration 194 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2957      42.7
+Beehives           733      10.6
+Loafs             1534      22.2
+Boats               29       0.4
+Tubs                30       0.4
+Blinkers          1577      22.8
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             64       0.9
+Spaceships           0       0.0
+......................................
+Total              6925
+......................................
+
+..........Iteration 195 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2970      42.7
+Beehives           737      10.6
+Loafs             1543      22.2
+Boats               29       0.4
+Tubs                30       0.4
+Blinkers          1586      22.8
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             64       0.9
+Spaceships           0       0.0
+......................................
+Total              6960
+......................................
+
+..........Iteration 196 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2982      42.6
+Beehives           739      10.6
+Loafs             1555      22.2
+Boats               29       0.4
+Tubs                30       0.4
+Blinkers          1594      22.8
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             64       0.9
+Spaceships           0       0.0
+......................................
+Total              6994
+......................................
+
+..........Iteration 197 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            2996      42.6
+Beehives           743      10.6
+Loafs             1562      22.2
+Boats               29       0.4
+Tubs                30       0.4
+Blinkers          1604      22.8
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             66       0.9
+Spaceships           0       0.0
+......................................
+Total              7031
+......................................
+
+..........Iteration 198 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            3015      42.7
+Beehives           750      10.6
+Loafs             1567      22.2
+Boats               29       0.4
+Tubs                30       0.4
+Blinkers          1607      22.7
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             67       0.9
+Spaceships           0       0.0
+......................................
+Total              7066
+......................................
+
+..........Iteration 199 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            3031      42.6
+Beehives           758      10.7
+Loafs             1574      22.1
+Boats               29       0.4
+Tubs                30       0.4
+Blinkers          1617      22.8
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             67       0.9
+Spaceships           0       0.0
+......................................
+Total              7107
+......................................
+
+..........Iteration 200 ...........
+......................................
+Structure       Count       Percentage
+......................................
+Blocks            3049      42.7
+Beehives           761      10.7
+Loafs             1584      22.2
+Boats               29       0.4
+Tubs                30       0.4
+Blinkers          1623      22.7
+Toads                1       0.0
+Beacons              0       0.0
+Gliders             67       0.9
+Spaceships           0       0.0
+......................................
+Total              7144
 ......................................
 
